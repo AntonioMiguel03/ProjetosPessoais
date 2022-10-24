@@ -1,1 +1,1 @@
-Clone responsivo de uma página de login do Facebook utilzando CSS.
+Clone de uma página de cadstro e login do Facebook utilzando CSS.
